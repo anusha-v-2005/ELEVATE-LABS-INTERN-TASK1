@@ -29,9 +29,11 @@ To design and develop a professional landing page that includes:
 
 
 📂 Project Structure
+
 MusicHub-Landing-Page/
 │
 ├── index.html
 ├── style.css
 └── README.md
+
 
